@@ -23,6 +23,8 @@ Code is licensed under the Apache 2.0 license.
 
 Themes are licensed as CC-BY-SA 3.0.
 
+Gutenberg books are licensed under PROJECT GUTENBERG LICENSE.
+
 All copyright to their respective owners.
 
 Gutenberg Changes
