@@ -26,26 +26,26 @@ p#slogan {
 }
 div#topbar {
     /*Lens img: http://www.freeiconspng.com/free-images/lens-png-1367 */
-    
+
     background: url("../img/lens.png") no-repeat;
     min-height: 350px;
     margin-bottom: -350px;
 }
 header {
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#007fff+0,60abf8+44,001fed+100 */
-    
+
     background: #007fff;
     /* Old browsers */
-    
+
     background: -moz-linear-gradient(top, #007fff 0%, #60abf8 44%, #001fed 100%);
     /* FF3.6-15 */
-    
+
     background: -webkit-linear-gradient(top, #007fff 0%, #60abf8 44%, #001fed 100%);
     /* Chrome10-25,Safari5.1-6 */
-    
+
     background: linear-gradient(to bottom, #007fff 0%, #60abf8 44%, #001fed 100%);
     /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-    
+
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#007fff', endColorstr='#001fed', GradientType=0);
     /* IE6-9 */
 }
@@ -70,30 +70,30 @@ header h1 span#headertop {
 }
 img#imglogo {
     /* Author:csstricks; replace image https://css-tricks.com/replace-the-image-in-an-img-with-css/ */
-    
+
     display: block;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     background: url("../img/toaster_flare.png") no-repeat;
     width: 318px;
     /* Width of new image */
-    
+
     height: 331px;
     /* Height of new image */
-    
+
     padding-left: 318px;
     /* Equal to width of new image */
-    
+
     margin-left: -35px;
 }
 nav {
-    margin-top: -4%;
+    margin-top: -5%;
     margin-left: 15%;
     padding-bottom: 2.5%;
 }
 nav ul {
     /* Author: w3schools; https://www.w3schools.com/css/css_navbar.asp*/
-    
+
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -170,20 +170,20 @@ aside h2 span#aside_top {} img#dino {
 img#dino:hover {
     /* Image Author: Abram Hindle; http://softwareprocess.es/static/SoftwareProcess.es.html
 /* Author:csstricks; replace image https://css-tricks.com/replace-the-image-in-an-img-with-css/ */
-    
+
     display: block;
     -moz-box-sizing: border-box;
     box-sizing: border-box;
     background: url("../img/abram-smiling-profile.png") no-repeat;
     width: 114px;
     /* Width of new image */
-    
+
     height: 94px;
     /* Height of new image */
-    
+
     padding-left: 114px;
     /* Equal to width of new image */
-    
+
     margin-bottom: 0;
 }
 section#specialdino {
@@ -194,7 +194,7 @@ footer {
 }
 footer ul {
     /* Author: w3schools; https://www.w3schools.com/css/css_navbar.asp*/
-    
+
     list-style-type: none;
     margin: 0;
     padding: 0;
