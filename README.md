@@ -21,7 +21,18 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+Themes are licensed as CC-BY-SA 3.0.
+
 All copyright to their respective owners.
+
+Gutenberg Changes
+==================
+* Deleted style from all the html files
+* Linked html files to style.css
+* Renamed html files
+ * 74-h.htm to 1.html
+ * 1342-h.htm to 2.html
+ * 54166-h.htm to 3.html
 
 Resources used
 ===============
