@@ -1,0 +1,9 @@
+* {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+.content {
+    margin: 0 auto;
+    padding-right: 20px;
+    padding-left: 20px;
+    max-width: 800px;
+}
