@@ -21,7 +21,9 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
-Themes are licensed as CC-BY-SA 3.0.
+Themes are are copyright Kalvin Eng (C) 2017 under the CC-BY-SA
+4.0 unported license. Attribution should be a hyperlink to the
+repository and (C) 2017 Kalvin Eng visibile in the text.
 
 Gutenberg books are licensed under PROJECT GUTENBERG LICENSE.
 
