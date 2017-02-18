@@ -88,6 +88,7 @@ img#imglogo {
 }
 nav {
     margin-top: -4%;
+    margin-left: 15%;
     padding-bottom: 2.5%;
 }
 nav ul {
@@ -117,6 +118,9 @@ nav ul li a {
     background: linear-gradient(to bottom, rgba(251, 223, 147, 1) 0%, rgba(248, 181, 0, 1) 49%, rgba(252, 234, 187, 1) 50%, rgba(240, 106, 3, 1) 100%);
     filter: progid: DXImageTransform.Microsoft.gradient( startColorstr='#fbdf93', endColorstr='#f06a03', GradientType=0);
     border: solid orange;
+}
+nav ul li#number {
+    display: none;
 }
 section div img#toast {
     margin-top: 50px;
