@@ -1,0 +1,48 @@
+* {
+  text-align:center;
+  font-family: "Times New Roman", Times, serif;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+body {
+  margin-left: 20%;
+  margin-right: 20%;
+  background-color: #F8ECC2;
+}
+
+p {
+  color: #464237;
+  font-family: "Times New Roman", Georgia, Serif;
+  line-height: 2em;
+  font-size: 125%;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.caption  {
+  font-weight:bold;
+  font-size:80%;
+}
+
+hr {
+  color: #AABD87;
+}
+
+img {
+  border: outset #948C74 7.5px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bolder;
+  color: #464237;
+  border-bottom: 3px solid #948C74;
+}
+
+h1::first-letter, h2::first-letter, h3::first-letter, h4::first-letter, h5::first-letter, h6::first-letter {
+  font-size: 200%;
+}
+
+a {
+  color: #948C74;
+}
