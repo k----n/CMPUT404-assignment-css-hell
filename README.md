@@ -21,4 +21,36 @@ repository and (C) 2013 Abram Hindle visibile in the text.
 
 Code is licensed under the Apache 2.0 license.
 
+All copyright to their respective owners.
 
+Resources used
+===============
+
+* CSS reset: http://meyerweb.com/eric/tools/css/reset/
+* Gradient Text
+ * Author: Trevor Davis
+ * https://www.viget.com/articles/background-clip-text-shadow-gradients
+* Gridlex for formatting content
+ * Uses predefined flexboxes
+ * Author: webdevlint
+ * http://gridlex.devlint.fr/
+* CSS Gradient
+ * Author: iosart labs llc
+ * http://www.colorzilla.com/gradient-editor/#258dc8+0,258dc8+100;Blue+Flat+%231
+* CSS boxshadow
+ * Author: CSSmatic
+ * http://www.cssmatic.com/box-shadow
+* Woodgrain Background
+ * Author: happymeluv
+ * https://www.vecteezy.com/vector-art/120583-vector-natural-wood-planks-background
+* Navbar
+ * Author: w3schools
+ * https://www.w3schools.com/css/css_navbar.asp
+* Triangle navbar
+ * Author: Daniel Hug
+ * https://jsfiddle.net/Daniel_Hug/ZRtHF/
+* Public domain images used
+ * https://pixabay.com/en/toaster-bread-bread-slices-eat-1745696/
+ * https://pixabay.com/en/bread-slice-happy-face-food-1179921/
+ * https://pixabay.com/en/monitor-display-screen-computer-149362/
+ * https://pixabay.com/en/dino-dragon-dinosaur-animal-2026962/
