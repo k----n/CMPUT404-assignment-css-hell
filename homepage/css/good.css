@@ -88,6 +88,13 @@ h1 span {
    padding-left: 10%;
 }
 
+img#imglogo {
+   margin-top: -30%;
+   margin-bottom: -30%;
+   margin-left: -35%;
+}
+
+
 header {
     /* Permalink - use to edit and share this gradient: http://colorzilla.com/gradient-editor/#258dc8+0,258dc8+100;Blue+Flat+%231 */
 background: rgb(37,141,200); /* Old browsers */
@@ -216,6 +223,18 @@ section ul li{
   padding-top: 7.5px;
 }
 
+section div img#toast {
+    padding-top: 50px;
+    max-width: 100%;
+    max-height: 100%;
+}
+
+img#monitor {
+    margin-top: 100%;
+    max-width: 100%;
+    max-height: 100%;
+}
+
 aside {
   margin-top: 5px;
   text-align: center;
@@ -223,6 +242,8 @@ aside {
 
 div#inneraside {
   background-color: #E8E8E8;
+  padding-left: 5px;
+  padding-right: 5px;
 }
 
 div#inneraside ul li h3 {
@@ -247,6 +268,14 @@ aside h2{
 aside h2 span {
   font-size: 60%;
   line-height: 0em;
+}
+
+img#dino {
+    margin-bottom: -2.5%;
+}
+
+section#specialdino {
+    margin-bottom: -35%;
 }
 
 footer {
