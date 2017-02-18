@@ -54,3 +54,15 @@ Resources used
  * https://pixabay.com/en/bread-slice-happy-face-food-1179921/
  * https://pixabay.com/en/monitor-display-screen-computer-149362/
  * https://pixabay.com/en/dino-dragon-dinosaur-animal-2026962/
+* Lens flare image
+ * Author: freeiconspng
+ * http://www.freeiconspng.com/free-images/lens-png-1367
+* Replacing an image
+ * Author: csstricks
+ * https://css-tricks.com/replace-the-image-in-an-img-with-css/
+* Roatating animation
+ * Author: angrytools
+ * http://angrytools.com/css/animation/
+* Abram Hindle Image
+ * Author: Abram Hindle
+ * http://softwareprocess.es/z/abram-smiling-profile.png
